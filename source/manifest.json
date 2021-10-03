@@ -1,6 +1,6 @@
 {
 	"name": "Brickseek",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"manifest_version": 2,
 	"description": "Adds 'Open in Brickseek' button to Walmart product pages",
 	"homepage_url": "https://github.com/andrew-ma/brickseek",

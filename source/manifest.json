@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"manifest_version": 2,
 	"description": "Adds 'Open in Brickseek' button to Walmart product pages",
-	"homepage_url": "https://github.com/andrew-ma/",
+	"homepage_url": "https://github.com/andrew-ma/brickseek",
 	"minimum_chrome_version": "74",
 	"browser_specific_settings": {
 		"gecko": {

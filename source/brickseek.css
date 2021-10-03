@@ -15,7 +15,7 @@
     -moz-user-select: text;
     -ms-user-select: text;
     user-select: text;
-    position: absolute;
+    position: fixed;
     z-index: 1000;
 }
 

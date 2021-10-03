@@ -7,7 +7,7 @@
 	"minimum_chrome_version": "74",
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "bricksee@andrewmatech.com",
+			"id": "brickseek@andrewmatech.com",
 			"strict_min_version": "67.0"
 		}
 	},
